@@ -43,7 +43,7 @@ Most modern browsers are powerful but heavy. LumiaBrowser focuses on:
 
 ```bash
 npm install
-
+```
 
 TR-------------------------------------------------------------
 
